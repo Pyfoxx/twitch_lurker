@@ -15,8 +15,6 @@ import twitch
 global bot, conn, pid
 
 # Groupe 1
-# Envoyer le projet a la fin (après noel)
-# Rendu du projet : (29 décembre) → Github ou Archive (.rar, .zip, ...)
 
 
 
