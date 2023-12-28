@@ -23,7 +23,7 @@ Needs a database for the config that looks like :
 
 
 
-### For the goog workingness, the bot will need a database (specified in the db_username, db_passw, db_name, db_ip) that looks like :
+### For the good workingness, the bot will need a database (specified in the db_username, db_passw, db_name, db_ip) that looks like :
 
 **Streamers:**
 |column_name|data_type|
